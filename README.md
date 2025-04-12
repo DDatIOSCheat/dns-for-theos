@@ -7,4 +7,10 @@ pc : ubuntu
 
 - edit the domain resolve block in DNS.xm
 - custom other thing in makefile
-- 
+
+# inject ?
+- using trollfools
+- esign to inject or any app can inject dylib to ipa
+
+# make ?
+- ```make clean package```
